@@ -6,6 +6,5 @@ streamlit
 matplotlib
 pdfplumber
 joblib
-sqlite3
 PyMuPDF
 requests
