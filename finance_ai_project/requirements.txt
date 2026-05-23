@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+pdfplumber
+joblib
+sqlite3
